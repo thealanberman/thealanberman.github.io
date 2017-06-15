@@ -2,8 +2,8 @@ window.onload = initAll;
 
 function initAll() {
   document.getElementById("fullName").select();
-  document.getElementById("ebmSubmit").onclick = function() {
-    document.getElementById("msgField").innerHTML = getebmBandName();
+  document.getElementById("genSubmit").onclick = function () {
+    document.getElementById("msgField").innerHTML = getGeneratedName();
     return false;
   }
 }
@@ -17,22 +17,22 @@ function randomBetween(min, max, seed) {
 function randomString(string_length) {
   var chars = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXTZabcdefghijklmnopqrstuvwxyz";
   var randomstring = '';
-  for (var i=0; i<string_length; i++) {
+  for (var i = 0; i < string_length; i++) {
     var rnum = Math.floor(Math.random() * chars.length);
-    randomstring += chars.substring(rnum,rnum+1);
+    randomstring += chars.substring(rnum, rnum + 1);
   }
   return randomstring;
 }
 
-function getebmBandName() {
+function getGeneratedName() {
   var fullName = document.getElementById("fullName").value;
-  var chem = ["Hydrogen","Helium","Lithium","Beryllium","Boron","Carbon","Nitrogen","Oxygen","Fluorine","Neon","Sodium","Magnesium","Aluminum","Silicon","Phosphorus","Sulfur","Chlorine","Argon","Potassium","Calcium","Scandium","Titanium","Vanadium","Chromium","Manganese","Iron","Cobalt","Nickel","Copper","Zinc","Gallium","Germanium","Arsenic","Selenium","Bromine","Krypton","Rubidium","Strontium","Yttrium","Zirconium","Niobium","Molybdenum","Technetium","Ruthenium","Rhodium","Palladium","Silver","Cadmium","Indium","Tin","Antimony","Tellurium","Iodine","Xenon","Cesium","Barium","Lanthanum","Cerium","Praseodymium","Neodymium","Promethium","Samarium","Europium","Gadolinium","Terbium","Dysprosium","Holmium","Erbium","Thulium","Ytterbium","Lutetium","Hafnium","Tantalum","Tungsten","Rhenium","Osmium","Iridium","Platinum","Gold","Mercury","Thallium","Lead","Bismuth","Polonium","Astatine","Radon","Francium","Radium","Actinium","Thorium","Protactinium","Uranium","Neptunium","Plutonium","Americium","Curium","Berkelium","Californium","Einsteinium","Fermium","Mendelevium","Nobelium","Lawrencium","Rutherfordium","Dubnium","Seaborgium","Bohrium","Hassium","Meitnerium"];
-  var mech = ["Effect","System","Neuron","Phase","Metric","Caustic","Suicide","X","Alternator","Distributor","Cam Shaft","Balancer","Capacitor","Resistor","Antenna","Regulator","Iterator","Processor","CPU","Input","Adapter","Exhaust","Filter","Adhesive","Switch","Wire","Conduit","Sensor","Magnetic","Limiter","Inhibitor","Levitator","God","Lamb","Christ","Fuck","Button","Lever","Kill","Engage","Infection","Saint","Mind","Vaccuum","Sheep","Sex","Drugs","Gun","Shotgun","Bomb","Sister","Digital","Die","Death","Sexy","Divide","Mode","Factory","Glass","Angel","Motion","Crucifix","Minus","Dead","Lifter","Puller"];
+  var prefix = ["Corsair", "Adesso", "Logitech", "Cooler Master", "Noppoo", "Razer", "ROCCAT", "Rosewill", "Gigabyte", "Microsoft", "SteelSeries", "Das Keyboard", "Monoprice", "IKEA", "Nike"];
+  var noun = ["Poseidon", "Zeus", "Hercules", "Apollo", "Ares", "Dionysus", "Hades", "Hephaestus", "Hypnos", "Hermes", "Erebus", "Nyx", "Thanatos", "Hyperion", "Prometheus", "Cronus", "Jupiter", "Mars", "Neptune", "Bacchus", "Mercury", "Adder", "Anaconda", "Asp", "Boa", "Cobra", "Diamondback", "Viper", "Lancehead", "Mamba", "Python", "Racer", "Sidewinder", "Stiletto", "Sonoran", "Taipan", "Tiger", "Le Tigre", "Warthog", "Zebra", "Platypus", "Wolf", "Elephant", "Mustang", "Razor", "Railgun", "Maglev", "Panzer", "V8", "V9", "V2", "V4", "V7", "X9", "X8", "X6", "X4", "X2", "Z99", "Z9000", "D4000", "F201", "MKB 746", "MKB G6", "MKB 921", "9000+", "4500", "Tenkeyless", "Full", "The Coming Storm", "Infinity", "5-EVAR", "Ol' Clicky", "Clickmeister", "Clickasaurus", "Die &#220;berclick", "Steel", "Iron", "Carbon Fiber", "Solid Gold", "Platinum", "Aluminum", "Aluminium", "Molten Lava", "Space-Age Polymer", "The Gimp", "KLIKKY", "KYB 2000", "KBD 2100", "WTF", "Unapologetically Plastic", "Solid Steel", "Wrought Iron", "Graphene", "Carbon Nanotube", "Silicon", "Bamboo", "Hemp", "Oak", "Walnut", "Cherry MX Brown", "Cherry MX Blue", "Cherry MX Green", "Cherry MX Clear", "Cherry MX Red", "Cherry MX Gold", "Backlit", "LED", "LCD", "1080p", "4K", "102-key", "105-key", "200-key", "10-key", "3-key", "Junior", "Senior", "Freshman", "The Freshmaker", "Champion", "n00b-crusher", "GoPro Compatible", "5 Gear Manual", "MP3 Ready", "Hi-Def", "HD", "RX8", "6 Cylinder", "The Dominator", "Macro", "Micro", "Microfiber", "Liquid Cooled", "Gel"];
 
 
   // initialize array which will become the ebm band name
-  var ebmBand = [];
-  console.log("ebmBand initialized = " + ebmBand);
+  var generatedName = [];
+  console.log("generatedName initialized = " + generatedName);
 
   if (fullName.length == 0) {
     var rnum = Math.floor(Math.random() * 25) + 1;
@@ -42,89 +42,41 @@ function getebmBandName() {
   }
 
   if (fullName.length > 0) {
-    // Preselect chemical, mechanical, and number from their respective lists
-    var chem1 = chem[randomBetween(0, chem.length - 1, fullName)];
-    var mech1 = mech[randomBetween(0, mech.length - 1, fullName)];
-    var mech2 = mech[randomBetween(0, mech.length - 1, fullName+1)];
-    var num = randomBetween(23, 333, fullName);
+    // Preselect prefix and noun from their respective lists
+    var prefix1 = prefix[randomBetween(0, prefix.length - 1, fullName)];
+    var noun1 = noun[randomBetween(0, noun.length - 1, fullName)];
+    var noun2 = noun[randomBetween(0, noun.length - 1, fullName + 1)];
+    var noun3 = noun[randomBetween(0, noun.length - 1, fullName + 2)];
 
-    // 50% chance of a chem
-    if (randomBetween(1,200,fullName) > 120) {
-      ebmBand.push(chem1);
+    // 50% chance of prefix
+    if (randomBetween(1, 200, fullName) > 100) {
+      generatedName.push(prefix1);
     }
 
-    // 100% chance of at least 1 mechanical
-    ebmBand.push(mech1);
+    // 100% chance of at least 2 nouns
+    generatedName.push(noun1);
+    generatedName.push(noun2);
 
-    // 33% chance of a 3 word name
-    if (randomBetween(1,3,fullName) == 1) {
-      ebmBand.push(mech2);
+    // 50% chance of a 3 noun name
+    if (randomBetween(1, 100, fullName) > 50) {
+      generatedName.push(noun3);
     }
 
-    // 25% chance of suffix
-    if (randomBetween(1,100,fullName) < 25 ) {
-      var suffix = randomBetween(1,3,fullName);
-      console.log("suffix="+suffix);
-      switch (suffix) {
-        case 201:
-          ebmBand[ebmBand.length-1] = ebmBand[ebmBand.length-1] +"tron";
-          break;
-        case 202:
-          ebmBand[ebmBand.length-1] = ebmBand[ebmBand.length-1] +"oid";
-          break;
-        case 203:
-          ebmBand[ebmBand.length-1] = ebmBand[ebmBand.length-1] +"head";
-          break;
-        }
+    var suffix = randomBetween(1, 3, fullName);
+    switch (suffix) {
+      case 1:
+        generatedName.push("Keyboard");
+        break;
+      case 2:
+        generatedName.push("Mechanical Keyboard");
+        break;
+      case 3:
+        generatedName.push("Gaming Keyboard")
+        break;
     }
-
-    // default joiner
-    var joinerChar = " ";
-
-    // init hasNumber
-    var hasNumber = false;
-
-    // 20% chance of joiner being : - .
-    if (randomBetween(1,5,fullName) == 2) {
-      switch(randomBetween(0,4,fullName+23)) {
-        case 0:
-          ebmBand.splice(0,0,".");
-          ebmBand.push(".");
-          joinerChar = ":";
-          break;
-        case 1:
-          joinerChar = "-";
-          break;
-        case 2:
-          joinerChar = ".";
-          break;
-        case 3:
-          joinerChar = "+";
-          break;
-        case 4:
-          ebmBand.splice(0,0,"[:");
-          ebmBand.push(":]");
-          break;
-      }
-    }
-
-    // if name is too short, tack a number on it
-    if (ebmBand.length == 1) {
-      ebmBand.push(num);
-      hasNumber = true;
-    }
-
-    if (ebmBand.length == 3 && ebmBand[0] == ".") {
-      ebmBand.splice(-2,0,mech2);
-    }
-
-    // also like a 60% chance of tacking a number on it anyway
-    if (randomBetween(0,10,fullName) > 4 && hasNumber == false) {
-      ebmBand.push(num);
-    }
-
-    return "Your ebm band name is: <span style='font-weight: bold;'>" + ebmBand.join(joinerChar) + "</span>";
   }
+
+  return "Your ebm band name is: <span style='font-weight: bold;'>" + generatedName.join(" ") + "</span>";
 }
 
 // CODE BELOW implements the "seedrandom()" function
@@ -149,7 +101,7 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 */
 
-(function(pool, math) {
+(function (pool, math) {
   //
   // The following constants are related to IEEE 754 limits.
   //
@@ -184,7 +136,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     // This function returns a random double in [0, 1) that contains
     // randomness in every bit of the mantissa of the IEEE 754 value.
-    var prng = function() {
+    var prng = function () {
       var n = arc4.g(chunks), // Start with a numerator n < 2 ^ 48
         d = startdenom, //   and denominator d = 2 ^ 48.
         x = 0; //   and no 'extra last byte'.
@@ -201,10 +153,10 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       return (n + x) / d; // Form the number within [0, 1).
     };
 
-    prng.int32 = function() {
+    prng.int32 = function () {
       return arc4.g(4) | 0;
     }
-    prng.quick = function() {
+    prng.quick = function () {
       return arc4.g(4) / 0x100000000;
     }
     prng.double = prng;
@@ -214,14 +166,14 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
     // Calling convention: what to return as a function of prng, seed, is_math.
     return (options.pass || callback ||
-      function(prng, seed, is_math_call, state) {
+      function (prng, seed, is_math_call, state) {
         if (state) {
           // Load the arc4 state from the given state if it has an S array.
           if (state.S) {
             copy(state, arc4);
           }
           // Only provide the .state method if requested via options.state.
-          prng.state = function() {
+          prng.state = function () {
             return copy(arc4, {});
           }
         }
@@ -276,7 +228,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     }
 
     // The "g" method returns the next (count) outputs as one number.
-    (me.g = function(count) {
+    (me.g = function (count) {
       // Using instance members instead of closure state nearly doubles speed.
       var t, r = 0,
         i = me.i,
@@ -387,7 +339,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       nodecrypto = require('crypto');
     } catch (ex) {}
   } else if ((typeof define) == 'function' && define.amd) {
-    define(function() {
+    define(function () {
       return seedrandom;
     });
   }

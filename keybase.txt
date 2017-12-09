@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/thealanberman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thealanberman.com
+  * I am thealanberman (https://keybase.io/thealanberman) on keybase.
+  * I have a public key ASCcHX8ApllsikcsQ60oh-T91PlTN4auO2crHFKxK4pH-Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b804ef521d1b9f0608d6efd9d328ed557dc7686fc69a771d867010034fdfa9fa0a",
+      "host": "keybase.io",
+      "kid": "01209c1d7f00a6596c8a472c43ad2887e4fdd4f9533786ae3b672b1c52b12b8a47f80a",
+      "uid": "60ca382fea1e5eed9c94b1742be86119",
+      "username": "thealanberman"
+    },
+    "merkle_root": {
+      "ctime": 1512787835,
+      "hash": "11ab4b76fdf62a523b7d791843f199a3fd7b25163fd56034ad7fbafba6e375d36f26d2138f0e6563f0f0f95295dfca6b81cd054a52314410a1fd0be4947dcbcc",
+      "hash_meta": "1241942deb882fe8e90314cc999a79f31932c7f89e69b174c0fb11e4c14bccd9",
+      "seqno": 1793929
+    },
+    "service": {
+      "hostname": "thealanberman.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1512787858,
+  "expire_in": 504576000,
+  "prev": "6f34486c89d6ca6191bc33c625111391c920e3d12433d57087e80b17176e37e7",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnB1/AKZZbIpHLEOtKIfk/dT5UzeGrjtnKxxSsSuKR/gKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjgwNGVmNTIxZDFiOWYwNjA4ZDZlZmQ5ZDMyOGVkNTU3ZGM3Njg2ZmM2OWE3NzFkODY3MDEwMDM0ZmRmYTlmYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOWMxZDdmMDBhNjU5NmM4YTQ3MmM0M2FkMjg4N2U0ZmRkNGY5NTMzNzg2YWUzYjY3MmIxYzUyYjEyYjhhNDdmODBhIiwidWlkIjoiNjBjYTM4MmZlYTFlNWVlZDljOTRiMTc0MmJlODYxMTkiLCJ1c2VybmFtZSI6InRoZWFsYW5iZXJtYW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTI3ODc4MzUsImhhc2giOiIxMWFiNGI3NmZkZjYyYTUyM2I3ZDc5MTg0M2YxOTlhM2ZkN2IyNTE2M2ZkNTYwMzRhZDdmYmFmYmE2ZTM3NWQzNmYyNmQyMTM4ZjBlNjU2M2YwZjBmOTUyOTVkZmNhNmI4MWNkMDU0YTUyMzE0NDEwYTFmZDBiZTQ5NDdkY2JjYyIsImhhc2hfbWV0YSI6IjEyNDE5NDJkZWI4ODJmZThlOTAzMTRjYzk5OWE3OWYzMTkzMmM3Zjg5ZTY5YjE3NGMwZmIxMWU0YzE0YmNjZDkiLCJzZXFubyI6MTc5MzkyOX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0aGVhbGFuYmVybWFuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MTI3ODc4NTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNmYzNDQ4NmM4OWQ2Y2E2MTkxYmMzM2M2MjUxMTEzOTFjOTIwZTNkMTI0MzNkNTcwODdlODBiMTcxNzZlMzdlNyIsInNlcW5vIjoyMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAvOzilS/5s3gPVbz9johsmiRzEZGbuUxh+T1LL4QbjWQYOnkK+sgiXV4Fjv0bF+TEsz496FXJxNkKXd91NQ4AGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgapU8tSUBeMyc6VXfIqtEc625gdYRPz4A5kg5wljWZCOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thealanberman
+
+==================================================================

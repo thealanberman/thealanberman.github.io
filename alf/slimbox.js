@@ -1,6 +1,6 @@
 /*
 	Slimbox v1.22 - The ultimate lightweight Lightbox clone
-	by Christophe Beyls (http://www.digitalia.be) - MIT-style license.
+	by Christophe Beyls (https://www.digitalia.be) - MIT-style license.
 	Inspired by the original Lightbox v2 by Lokesh Dhakar.
 */
 

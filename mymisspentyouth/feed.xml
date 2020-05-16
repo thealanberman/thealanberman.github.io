@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <link>https://thealanberman.com/mymisspentyouth</link>
+        <language>en-us</language>
+        <image>
+            <url>https://thealanberman.com/mymisspentyouth/mymisspentyouth.jpg</url>
+            <title>My Misspent Youth Podcast</title>
+            <link>https://thealanberman.com/mymisspentyouth</link>
+        </image>
+        <title>My Misspent Youth</title>
+        <description>an eclectic music podcast</description>
+
+        <!-- THE IMPORTANT BITS: UPDATE THESE -->
+        <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
+        <lastBuildDate>Fri, 15 May 2020 22:43:10 -0700</lastBuildDate>
+        <item>
+            <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
+            <title>Episode 001 "Samples"</title>
+            <description>Verbose description of the episode.</description>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
+        </item>
+    </channel>
+</rss>

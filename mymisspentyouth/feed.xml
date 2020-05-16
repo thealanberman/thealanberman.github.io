@@ -10,16 +10,36 @@
         </image>
         <title>My Misspent Youth</title>
         <description>an eclectic music podcast</description>
+        <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
-        <!-- THE IMPORTANT BITS: UPDATE THESE -->
-        <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
-        <lastBuildDate>Fri, 15 May 2020 22:43:10 -0700</lastBuildDate>
+<!-- UPDATE THIS -->
+        <pubDate>Sat, 16 May 2020 15:03:28 -0700</pubDate>
+        
+<!-- COPY THIS FOR NEW ITEMS
+        <item>
+            <pubDate>DATE_HERE</pubDate>
+            <title>Episode ZZZ "NAME"</title>
+            <description>an eclectic music podcast</description>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
+        </item>
+-->
+
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
-            <description>Verbose description of the episode.</description>
+            <description>an eclectic music podcast</description>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
         </item>
+        
+        <item>
+            <pubDate>Sat, 16 May 2020 15:03:28 -0700</pubDate>
+            <title>Episode 002 "Drugs"</title>
+            <description>an eclectic music podcast</description>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3</guid>
+        </item>
+
     </channel>
 </rss>

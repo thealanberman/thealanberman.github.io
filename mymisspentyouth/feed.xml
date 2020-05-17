@@ -13,13 +13,20 @@
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
         <!-- UPDATE THIS -->
-        <pubDate>Sat, 16 May 2020 23:02:06 -0700</pubDate>
+        <pubDate>Sat, 16 May 2020 23:50:06 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
             <pubDate>DATE_HERE</pubDate>
             <title>Episode ZZZ "NAME"</title>
-            <description>an eclectic music podcast</description>
+            <description>
+                <li>ITEM1</li>
+                <li>ITEM2</li>
+            </description>
+            <itunes:summary>
+                <li>ITEM1</li>
+                <li>ITEM2</li>
+            </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
         </item>
@@ -42,6 +49,20 @@
                 <li>Kon Kan - I Beg Your Pardon</li>
                 <li>Negativland - The Greatest Taste Around</li>
             </description>
+            <itunes:summary>
+                <li>KMFDM - We Must Awaken</li>
+                <li>Khuskan - Atomic</li>
+                <li>Information Society - A Knife and a Fork</li>
+                <li>David Guetta - Atomic Food</li>
+                <li>Mike Doughty - More Bacon Than the Pan Can Handle</li>
+                <li>Master Cylinder - Jung at Heart</li>
+                <li>M/A/R/R/S - Pump Up the Volume</li>
+                <li>Pop Will Eat Itself - Can U Dig It?</li>
+                <li>Messiah - Temple of Dreams</li>
+                <li>The Timelords - Doctorin' the Tardis</li>
+                <li>Kon Kan - I Beg Your Pardon</li>
+                <li>Negativland - The Greatest Taste Around</li>
+            </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
         </item>
@@ -60,6 +81,17 @@
                 <li>Babble - Come Down</li>
                 <li>Brad Sucks - Dropping Out of School</li>
             </description>
+            <itunes:summary>
+                <li>Strawberry Alarm Clock - Incense &amp; Peppermints</li>
+                <li>Underworld - Cowgirl</li>
+                <li>The Dandy Warhols - Holding Me Up</li>
+                <li>Electric Six - I Buy the Drugs</li>
+                <li>Matthew Dear - You Put a Smell on Me</li>
+                <li>Clutch - Drink to the Dead</li>
+                <li>Land of the Loops - Multi-Family Garage Sale</li>
+                <li>Babble - Come Down</li>
+                <li>Brad Sucks - Dropping Out of School</li>
+            </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3</guid>
         </item>
@@ -78,6 +110,17 @@
                 <li>Black Rebel Motorcycle Club - Lien On Your Dreams</li>
                 <li>Baroness - Tourniquet</li>
             </description>
+            <itunes:summary>
+                <li>Wanderlust - Lou Reed</li>
+                <li>Strange Talk - Eskimo Boy</li>
+                <li>Lemon Interrupt - Minniapolis</li>
+                <li>The Prodigy - Mindfields</li>
+                <li>Lo-Fidelity All-Stars - Battle Flag</li>
+                <li>The Suburbs - Music for Boys</li>
+                <li>Strange Advance - We Run</li>
+                <li>Black Rebel Motorcycle Club - Lien On Your Dreams</li>
+                <li>Baroness - Tourniquet</li>
+            </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3</guid>
         </item>

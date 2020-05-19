@@ -24,8 +24,8 @@
                 <li>ITEM2</li>
             </description>
             <itunes:summary>
-                <li>ITEM1</li>
-                <li>ITEM2</li>
+                ITEM1
+                ITEM2
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
@@ -50,18 +50,18 @@
                 <li>Negativland - The Greatest Taste Around</li>
             </description>
             <itunes:summary>
-                <li>KMFDM - We Must Awaken</li>
-                <li>Khuskan - Atomic</li>
-                <li>Information Society - A Knife and a Fork</li>
-                <li>David Guetta - Atomic Food</li>
-                <li>Mike Doughty - More Bacon Than the Pan Can Handle</li>
-                <li>Master Cylinder - Jung at Heart</li>
-                <li>M/A/R/R/S - Pump Up the Volume</li>
-                <li>Pop Will Eat Itself - Can U Dig It?</li>
-                <li>Messiah - Temple of Dreams</li>
-                <li>The Timelords - Doctorin' the Tardis</li>
-                <li>Kon Kan - I Beg Your Pardon</li>
-                <li>Negativland - The Greatest Taste Around</li>
+                KMFDM - We Must Awaken
+                Khuskan - Atomic
+                Information Society - A Knife and a Fork
+                David Guetta - Atomic Food
+                Mike Doughty - More Bacon Than the Pan Can Handle
+                Master Cylinder - Jung at Heart
+                M/A/R/R/S - Pump Up the Volume
+                Pop Will Eat Itself - Can U Dig It?
+                Messiah - Temple of Dreams
+                The Timelords - Doctorin' the Tardis
+                Kon Kan - I Beg Your Pardon
+                Negativland - The Greatest Taste Around
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
@@ -82,15 +82,15 @@
                 <li>Brad Sucks - Dropping Out of School</li>
             </description>
             <itunes:summary>
-                <li>Strawberry Alarm Clock - Incense &amp; Peppermints</li>
-                <li>Underworld - Cowgirl</li>
-                <li>The Dandy Warhols - Holding Me Up</li>
-                <li>Electric Six - I Buy the Drugs</li>
-                <li>Matthew Dear - You Put a Smell on Me</li>
-                <li>Clutch - Drink to the Dead</li>
-                <li>Land of the Loops - Multi-Family Garage Sale</li>
-                <li>Babble - Come Down</li>
-                <li>Brad Sucks - Dropping Out of School</li>
+                Strawberry Alarm Clock - Incense &amp; Peppermints
+                Underworld - Cowgirl
+                The Dandy Warhols - Holding Me Up
+                Electric Six - I Buy the Drugs
+                Matthew Dear - You Put a Smell on Me
+                Clutch - Drink to the Dead
+                Land of the Loops - Multi-Family Garage Sale
+                Babble - Come Down
+                Brad Sucks - Dropping Out of School
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3</guid>
@@ -111,15 +111,15 @@
                 <li>Baroness - Tourniquet</li>
             </description>
             <itunes:summary>
-                <li>Wanderlust - Lou Reed</li>
-                <li>Strange Talk - Eskimo Boy</li>
-                <li>Lemon Interrupt - Minniapolis</li>
-                <li>The Prodigy - Mindfields</li>
-                <li>Lo-Fidelity All-Stars - Battle Flag</li>
-                <li>The Suburbs - Music for Boys</li>
-                <li>Strange Advance - We Run</li>
-                <li>Black Rebel Motorcycle Club - Lien On Your Dreams</li>
-                <li>Baroness - Tourniquet</li>
+                Wanderlust - Lou Reed
+                Strange Talk - Eskimo Boy
+                Lemon Interrupt - Minniapolis
+                The Prodigy - Mindfields
+                Lo-Fidelity All-Stars - Battle Flag
+                The Suburbs - Music for Boys
+                Strange Advance - We Run
+                Black Rebel Motorcycle Club - Lien On Your Dreams
+                Baroness - Tourniquet
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3</guid>
@@ -140,15 +140,15 @@
                 <li>Cracker - Big Dipper</li>
             </description>
             <itunes:summary>
-                <li>The Wrens - She Sends Kisses</li>
-                <li>Sisters of Mercy - I Was Wrong</li>
-                <li>Haley Bonar - Drinking Again</li>
-                <li>Mazzy Star - Into Dust</li>
-                <li>Speck Mountain - Backsliding</li>
-                <li>Still Corners - The Trip</li>
-                <li>Bon Iver - For Emma</li>
-                <li>Red House Painters - New Jersey</li>
-                <li>Cracker - Big Dipper</li>
+                The Wrens - She Sends Kisses
+                Sisters of Mercy - I Was Wrong
+                Haley Bonar - Drinking Again
+                Mazzy Star - Into Dust
+                Speck Mountain - Backsliding
+                Still Corners - The Trip
+                Bon Iver - For Emma
+                Red House Painters - New Jersey
+                Cracker - Big Dipper
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3</guid>

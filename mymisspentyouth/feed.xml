@@ -28,6 +28,7 @@
                 ITEM1
                 ITEM2
             </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#000</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
         </item>
@@ -64,6 +65,7 @@
                 Kon Kan - I Beg Your Pardon
                 Negativland - The Greatest Taste Around
             </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#001</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
         </item>
@@ -93,6 +95,7 @@
                 Babble - Come Down
                 Brad Sucks - Dropping Out of School
             </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#002</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3</guid>
         </item>
@@ -122,6 +125,7 @@
                 Black Rebel Motorcycle Club - Lien On Your Dreams
                 Baroness - Tourniquet
             </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#003</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3</guid>
         </item>
@@ -151,6 +155,7 @@
                 Red House Painters - New Jersey
                 Cracker - Big Dipper
             </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#004</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3</guid>
         </item>

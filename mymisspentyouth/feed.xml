@@ -13,7 +13,7 @@
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
         <!-- UPDATE THIS -->
-        <pubDate>Sat, 16 May 2020 23:50:06 -0700</pubDate>
+        <pubDate>Tue, 19 May 2020 09:37:31 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
@@ -30,7 +30,7 @@
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
         </item>
--->
+        -->
 
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
@@ -123,6 +123,35 @@
             </itunes:summary>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3</guid>
+        </item>
+
+        <item>
+            <pubDate>Tue, 19 May 2020 09:37:31 -0700</pubDate>
+            <title>Episode 004 "Wallow"</title>
+            <description>
+                <li>The Wrens - She Sends Kisses</li>
+                <li>Sisters of Mercy - I Was Wrong</li>
+                <li>Haley Bonar - Drinking Again</li>
+                <li>Mazzy Star - Into Dust</li>
+                <li>Speck Mountain - Backsliding</li>
+                <li>Still Corners - The Trip</li>
+                <li>Bon Iver - For Emma</li>
+                <li>Red House Painters - New Jersey</li>
+                <li>Cracker - Big Dipper</li>
+            </description>
+            <itunes:summary>
+                <li>The Wrens - She Sends Kisses</li>
+                <li>Sisters of Mercy - I Was Wrong</li>
+                <li>Haley Bonar - Drinking Again</li>
+                <li>Mazzy Star - Into Dust</li>
+                <li>Speck Mountain - Backsliding</li>
+                <li>Still Corners - The Trip</li>
+                <li>Bon Iver - For Emma</li>
+                <li>Red House Painters - New Jersey</li>
+                <li>Cracker - Big Dipper</li>
+            </itunes:summary>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3</guid>
         </item>
 
     </channel>

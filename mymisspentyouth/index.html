@@ -11,9 +11,10 @@
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <link rel="alternate" type="application/rss+xml" title="Subscribe to My Misspent Youth Podcast"
             href="feed.xml" />
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script> -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
         <style>
             #logo {
                 width: 300px;
@@ -39,6 +40,7 @@
                 border-radius: 15px;
                 padding: 1em;
                 margin: 15px;
+                max-width: 800px;
             }
 
             .footer {
@@ -48,6 +50,7 @@
             #feed {
                 height: 1.5em;
             }
+
         </style>
     </head>
 
@@ -58,7 +61,7 @@
                 <small>an eclectic music podcast</small>
             </h1>
         </div>
-        <div class="col-sm-12 text-center">
+        <div class="text-center">
             <p><a href="feed.xml"><img id="feed" src="feed-icon.png" /> copy this link to your favorite podcast app to
                     subscribe</a></p>
         </div>
@@ -68,7 +71,7 @@
 
                 <!-- #################### EPISODE START #################### -->
                 <!--
-                <div class="col-sm-6 episode">
+                <div class="col-sm-8 episode">
                     <h3>Episode 000 "SOMETHING"</h3>
                     <p>
                         <audio controls>
@@ -91,7 +94,7 @@
                 -->
 
                 <!-- #################### EPISODE START #################### -->
-                <div class="col-sm-6 episode">
+                <div class="episode">
                     <h3><a href="#004">Episode 004 "Wallow"</a></h3>
                     <p>
                         <audio controls>
@@ -116,15 +119,20 @@
                         </ol>
                     </p>
                     <p>If you're in a good mood, probably best to skip this one for now.</p>
-                    <p>This one is definitely a "down note" mix. Most of these songs have served as a soundrack I put on when I felt like wallowing in misery.</p>
-                    <p>I generally dislike female vocals in songs, but apparently that rule doesn't apply as long as the song is slow, sad and probably with some echo effect. Personal preferences are weird.</p>
-                    <p>The Sisters of Mercy track reminds me I should do a goth/post-punk/darkwave mix. Maybe up next?</p>
+                    <p>This one is definitely a "down note" mix. Most of these songs have served as a soundrack I put on
+                        when I felt like wallowing in misery.</p>
+                    <p>I generally dislike female vocals in songs, but apparently that rule doesn't apply as long as the
+                        song is slow, sad and probably with some echo effect. Personal preferences are weird.</p>
+                    <p>The Sisters of Mercy track reminds me I should do a goth/post-punk/darkwave mix. Maybe up next?
+                    </p>
                     <p>- Al</p>
-                    <p><a class="btn btn-info" href="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" download><img class="download" src="download-icon.png" /> Download</a></p>
+                    <p><a class="btn btn-info"
+                            href="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3"
+                            download><img class="download" src="download-icon.png" /> Download</a></p>
                 </div>
 
                 <!-- #################### EPISODE START #################### -->
-                <div class="col-sm-6 episode">
+                <div class="episode">
                     <h3><a href="#003">Episode 003 "Strange"</a></h3>
                     <p>
                         <audio controls>
@@ -162,7 +170,7 @@
                 </div>
 
                 <!-- #################### EPISODE START #################### -->
-                <div class="col-sm-6 episode">
+                <div class="episode">
                     <h3><a href="#002">Episode 002 "Drugs"</a></h3>
                     <p>
                         <audio controls>
@@ -204,7 +212,7 @@
                 </div>
 
                 <!-- #################### EPISODE START #################### -->
-                <div class="col-sm-6 episode">
+                <div class="episode">
                     <h3><a href="#001">Episode 001 "Samples"</a></h3>
                     <p>
                         <audio controls>
@@ -254,7 +262,7 @@
 
             </div>
         </div>
-        <div class="col-sm-12 text-center footer">
+        <div class="col-sm-8 text-center footer">
             <p>
                 Hey look! A footer! Neat.
             </p>

@@ -13,20 +13,20 @@
         <description>an eclectic music podcast</description>
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
-        <!-- UPDATE THIS -->
-        <pubDate>Tue, 19 May 2020 09:37:31 -0700</pubDate>
+        <!-- UPDATE THIS $(date -R) -->
+        <pubDate>Sat, 23 May 2020 21:36:44 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
             <pubDate>DATE_HERE</pubDate>
             <title>Episode ZZZ "NAME"</title>
             <description>
-                ITEM1
-                ITEM2
+ITEM1
+ITEM2
             </description>
             <itunes:summary>
-                ITEM1
-                ITEM2
+ITEM1
+ITEM2
             </itunes:summary>
             <link>https://thealanberman.com/mymisspentyouth/#000</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
@@ -38,32 +38,32 @@
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
             <description>
-                KMFDM - We Must Awaken
-                Khuskan - Atomic
-                Information Society - A Knife and a Fork
-                David Guetta - Atomic Food
-                Mike Doughty - More Bacon Than the Pan Can Handle
-                Master Cylinder - Jung at Heart
-                M/A/R/R/S - Pump Up the Volume
-                Pop Will Eat Itself - Can U Dig It?
-                Messiah - Temple of Dreams
-                The Timelords - Doctorin' the Tardis
-                Kon Kan - I Beg Your Pardon
-                Negativland - The Greatest Taste Around
+KMFDM - We Must Awaken
+Khuskan - Atomic
+Information Society - A Knife and a Fork
+David Guetta - Atomic Food
+Mike Doughty - More Bacon Than the Pan Can Handle
+Master Cylinder - Jung at Heart
+M/A/R/R/S - Pump Up the Volume
+Pop Will Eat Itself - Can U Dig It?
+Messiah - Temple of Dreams
+The Timelords - Doctorin' the Tardis
+Kon Kan - I Beg Your Pardon
+Negativland - The Greatest Taste Around
             </description>
             <itunes:summary>
-                KMFDM - We Must Awaken
-                Khuskan - Atomic
-                Information Society - A Knife and a Fork
-                David Guetta - Atomic Food
-                Mike Doughty - More Bacon Than the Pan Can Handle
-                Master Cylinder - Jung at Heart
-                M/A/R/R/S - Pump Up the Volume
-                Pop Will Eat Itself - Can U Dig It?
-                Messiah - Temple of Dreams
-                The Timelords - Doctorin' the Tardis
-                Kon Kan - I Beg Your Pardon
-                Negativland - The Greatest Taste Around
+KMFDM - We Must Awaken
+Khuskan - Atomic
+Information Society - A Knife and a Fork
+David Guetta - Atomic Food
+Mike Doughty - More Bacon Than the Pan Can Handle
+Master Cylinder - Jung at Heart
+M/A/R/R/S - Pump Up the Volume
+Pop Will Eat Itself - Can U Dig It?
+Messiah - Temple of Dreams
+The Timelords - Doctorin' the Tardis
+Kon Kan - I Beg Your Pardon
+Negativland - The Greatest Taste Around
             </itunes:summary>
             <link>https://thealanberman.com/mymisspentyouth/#001</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
@@ -74,26 +74,26 @@
             <pubDate>Sat, 16 May 2020 15:03:28 -0700</pubDate>
             <title>Episode 002 "Drugs"</title>
             <description>
-                Strawberry Alarm Clock - Incense &amp; Peppermints
-                Underworld - Cowgirl
-                The Dandy Warhols - Holding Me Up
-                Electric Six - I Buy the Drugs
-                Matthew Dear - You Put a Smell on Me
-                Clutch - Drink to the Dead
-                Land of the Loops - Multi-Family Garage Sale
-                Babble - Come Down
-                Brad Sucks - Dropping Out of School
+Strawberry Alarm Clock - Incense &amp; Peppermints
+Underworld - Cowgirl
+The Dandy Warhols - Holding Me Up
+Electric Six - I Buy the Drugs
+Matthew Dear - You Put a Smell on Me
+Clutch - Drink to the Dead
+Land of the Loops - Multi-Family Garage Sale
+Babble - Come Down
+Brad Sucks - Dropping Out of School
             </description>
             <itunes:summary>
-                Strawberry Alarm Clock - Incense &amp; Peppermints
-                Underworld - Cowgirl
-                The Dandy Warhols - Holding Me Up
-                Electric Six - I Buy the Drugs
-                Matthew Dear - You Put a Smell on Me
-                Clutch - Drink to the Dead
-                Land of the Loops - Multi-Family Garage Sale
-                Babble - Come Down
-                Brad Sucks - Dropping Out of School
+Strawberry Alarm Clock - Incense &amp; Peppermints
+Underworld - Cowgirl
+The Dandy Warhols - Holding Me Up
+Electric Six - I Buy the Drugs
+Matthew Dear - You Put a Smell on Me
+Clutch - Drink to the Dead
+Land of the Loops - Multi-Family Garage Sale
+Babble - Come Down
+Brad Sucks - Dropping Out of School
             </itunes:summary>
             <link>https://thealanberman.com/mymisspentyouth/#002</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
@@ -104,26 +104,26 @@
             <pubDate>Sat, 16 May 2020 23:02:06 -0700</pubDate>
             <title>Episode 003 "Strange"</title>
             <description>
-                Wanderlust - Lou Reed
-                Strange Talk - Eskimo Boy
-                Lemon Interrupt - Minniapolis
-                The Prodigy - Mindfields
-                Lo-Fidelity All-Stars - Battle Flag
-                The Suburbs - Music for Boys
-                Strange Advance - We Run
-                Black Rebel Motorcycle Club - Lien On Your Dreams
-                Baroness - Tourniquet
+Wanderlust - Lou Reed
+Strange Talk - Eskimo Boy
+Lemon Interrupt - Minniapolis
+The Prodigy - Mindfields
+Lo-Fidelity All-Stars - Battle Flag
+The Suburbs - Music for Boys
+Strange Advance - We Run
+Black Rebel Motorcycle Club - Lien On Your Dreams
+Baroness - Tourniquet
             </description>
             <itunes:summary>
-                Wanderlust - Lou Reed
-                Strange Talk - Eskimo Boy
-                Lemon Interrupt - Minniapolis
-                The Prodigy - Mindfields
-                Lo-Fidelity All-Stars - Battle Flag
-                The Suburbs - Music for Boys
-                Strange Advance - We Run
-                Black Rebel Motorcycle Club - Lien On Your Dreams
-                Baroness - Tourniquet
+Wanderlust - Lou Reed
+Strange Talk - Eskimo Boy
+Lemon Interrupt - Minniapolis
+The Prodigy - Mindfields
+Lo-Fidelity All-Stars - Battle Flag
+The Suburbs - Music for Boys
+Strange Advance - We Run
+Black Rebel Motorcycle Club - Lien On Your Dreams
+Baroness - Tourniquet
             </itunes:summary>
             <link>https://thealanberman.com/mymisspentyouth/#003</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
@@ -134,30 +134,68 @@
             <pubDate>Tue, 19 May 2020 09:37:31 -0700</pubDate>
             <title>Episode 004 "Wallow"</title>
             <description>
-                The Wrens - She Sends Kisses
-                Sisters of Mercy - I Was Wrong
-                Haley Bonar - Drinking Again
-                Mazzy Star - Into Dust
-                Speck Mountain - Backsliding
-                Still Corners - The Trip
-                Bon Iver - For Emma
-                Red House Painters - New Jersey
-                Cracker - Big Dipper
+The Wrens - She Sends Kisses
+Sisters of Mercy - I Was Wrong
+Haley Bonar - Drinking Again
+Mazzy Star - Into Dust
+Speck Mountain - Backsliding
+Still Corners - The Trip
+Bon Iver - For Emma
+Red House Painters - New Jersey
+Cracker - Big Dipper
             </description>
             <itunes:summary>
-                The Wrens - She Sends Kisses
-                Sisters of Mercy - I Was Wrong
-                Haley Bonar - Drinking Again
-                Mazzy Star - Into Dust
-                Speck Mountain - Backsliding
-                Still Corners - The Trip
-                Bon Iver - For Emma
-                Red House Painters - New Jersey
-                Cracker - Big Dipper
+The Wrens - She Sends Kisses
+Sisters of Mercy - I Was Wrong
+Haley Bonar - Drinking Again
+Mazzy Star - Into Dust
+Speck Mountain - Backsliding
+Still Corners - The Trip
+Bon Iver - For Emma
+Red House Painters - New Jersey
+Cracker - Big Dipper
             </itunes:summary>
             <link>https://thealanberman.com/mymisspentyouth/#004</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3</guid>
+        </item>
+
+        <item>
+            <pubDate>Sat, 23 May 2020 21:36:44 -0700</pubDate>
+            <title>Episode 005 "Music for Bikesda"</title>
+            <description>
+Spencer Davis Group - GImme Some Lovin'
+Matt Berry - The Signs
+The Cult - Rain
+Lou Gramm - Midnight Blue
+Sparklehorse - Someday I Will Treat You Good
+Electric Guest - This Head I Hold
+Sturgill Simpson - Sing Along
+Deadmau5 feat. Rob Swire - Ghosts n' Stuff
+Apoptygma Berzerk - Coma White
+The Presets - This Boy's in Love
+Utah Saints - Something Good '09
+Covenant - Tension
+Holy Ghost! - Do It Again
+            </description>
+            <itunes:summary>
+Spencer Davis Group - GImme Some Lovin'
+Matt Berry - The Signs
+The Cult - Rain
+Lou Gramm - Midnight Blue
+Sparklehorse - Someday I Will Treat You Good
+Electric Guest - This Head I Hold
+Sturgill Simpson - Sing Along
+Deadmau5 feat. Rob Swire - Ghosts n' Stuff
+Apoptygma Berzerk - Coma White
+The Presets - This Boy's in Love
+Utah Saints - Something Good '09
+Covenant - Tension
+Holy Ghost! - Do It Again
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#005</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3</guid>
         </item>
 
     </channel>

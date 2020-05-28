@@ -21,7 +21,7 @@
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Sat, 23 May 2020 22:39:54 -0700</pubDate>
+        <pubDate>Wed, 27 May 2020 23:00:54 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
@@ -203,6 +203,42 @@ Holy Ghost! - Do It Again
             <link>https://thealanberman.com/mymisspentyouth/#005</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3</guid>
+        </item>
+
+        <item>
+            <pubDate>Wed, 27 May 2020 23:00:54 -0700</pubDate>
+            <title>Episode 006 "Garage"</title>
+            <description>
+Father John Misty - Hollywood Forever Cemetery Sings
+The Mighty Lemon Drops - Out of Hand
+Pickwick - Hacienda Motel
+The Smithereens - Behind the Wall of Sleep
+The Castaways - Liar, Liar
+Fitz and the Tantrums - Don't Gotta Work It Out
+The Black Keys - Tighten Up
+My Morning Jacket - The Day is Coming
+Band of Horses - Ode to LRC
+Spoon - The Beast and Dragon, Adored
+Shawn Lee - River Man
+Say Hi To Your Mom - A Hit in Sweden
+            </description>
+            <itunes:summary>
+Father John Misty - Hollywood Forever Cemetery Sings
+The Mighty Lemon Drops - Out of Hand
+Pickwick - Hacienda Motel
+The Smithereens - Behind the Wall of Sleep
+The Castaways - Liar, Liar
+Fitz and the Tantrums - Don't Gotta Work It Out
+The Black Keys - Tighten Up
+My Morning Jacket - The Day is Coming
+Band of Horses - Ode to LRC
+Spoon - The Beast and Dragon, Adored
+Shawn Lee - River Man
+Say Hi To Your Mom - A Hit in Sweden
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#006</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3</guid>
         </item>
 
     </channel>

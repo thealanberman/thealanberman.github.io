@@ -21,7 +21,7 @@
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Wed, 27 May 2020 23:00:54 -0700</pubDate>
+        <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
@@ -40,6 +40,36 @@ ITEM2
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
         </item>
         -->
+
+        <item>
+            <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
+            <title>Episode 007 "Mope"</title>
+            <description>
+Will Johnson - Just To Know What You've Been Dreaming
+Beck - Guess I'm Doing Fine
+Idlewild - Welcome Home
+Jets To Brazil - Sea Anemone
+Mad Season - Wake Up
+Peter Murphy - I'll Fall With Your Knife
+The Smiths - Death of a Disco Dancer
+Pink Floyd - Wish You Were Here
+Cigarettes After Sex - Nothing's Gonna Hurt You Baby
+            </description>
+            <itunes:summary>
+Will Johnson - Just To Know What You've Been Dreaming
+Beck - Guess I'm Doing Fine
+Idlewild - Welcome Home
+Jets To Brazil - Sea Anemone
+Mad Season - Wake Up
+Peter Murphy - I'll Fall With Your Knife
+The Smiths - Death of a Disco Dancer
+Pink Floyd - Wish You Were Here
+Cigarettes After Sex - Nothing's Gonna Hurt You Baby
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#007</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3</guid>
+        </item>
 
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>

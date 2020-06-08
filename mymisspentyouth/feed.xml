@@ -42,36 +42,6 @@ ITEM2
         -->
 
         <item>
-            <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
-            <title>Episode 007 "Mope"</title>
-            <description>
-Will Johnson - Just To Know What You've Been Dreaming
-Beck - Guess I'm Doing Fine
-Idlewild - Welcome Home
-Jets To Brazil - Sea Anemone
-Mad Season - Wake Up
-Peter Murphy - I'll Fall With Your Knife
-The Smiths - Death of a Disco Dancer
-Pink Floyd - Wish You Were Here
-Cigarettes After Sex - Nothing's Gonna Hurt You Baby
-            </description>
-            <itunes:summary>
-Will Johnson - Just To Know What You've Been Dreaming
-Beck - Guess I'm Doing Fine
-Idlewild - Welcome Home
-Jets To Brazil - Sea Anemone
-Mad Season - Wake Up
-Peter Murphy - I'll Fall With Your Knife
-The Smiths - Death of a Disco Dancer
-Pink Floyd - Wish You Were Here
-Cigarettes After Sex - Nothing's Gonna Hurt You Baby
-            </itunes:summary>
-            <link>https://thealanberman.com/mymisspentyouth/#007</link>
-            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3" type="audio/mpeg" length="1" />
-            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3</guid>
-        </item>
-
-        <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
             <description>
@@ -269,6 +239,74 @@ Say Hi To Your Mom - A Hit in Sweden
             <link>https://thealanberman.com/mymisspentyouth/#006</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3</guid>
+        </item>
+
+        <item>
+            <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
+            <title>Episode 007 "Mope"</title>
+            <description>
+Will Johnson - Just To Know What You've Been Dreaming
+Beck - Guess I'm Doing Fine
+Idlewild - Welcome Home
+Jets To Brazil - Sea Anemone
+Mad Season - Wake Up
+Peter Murphy - I'll Fall With Your Knife
+The Smiths - Death of a Disco Dancer
+Pink Floyd - Wish You Were Here
+Cigarettes After Sex - Nothing's Gonna Hurt You Baby
+
+This mix feels mostly like a sequel to Episode 004 "Wallow".
+
+Perhaps I should have titled it "Wallow Side B", in keeping with the mix tape theme.
+
+I guess I like mopey music, or at least I certainly don't shy away from it.
+
+Hmm, let's see,  what can I say about this mix?
+
+Fun Facts!
+
+- Will Johnson is also the lead singer of the bands _South San Gabriel_ and _Centro-matic_.
+- Beck's album _Sea Change_ is one of those rare albums where I can listen to it start to finish and there are no bad tracks I'd rather skip.
+- Despite Idlewild's often country-ish sound... they're Scottish. 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Jets to Brazil got their name from a travel poster on the wall in a scene from _Breakfast At Tiffany's_.
+- Mad Season is a "supergroup" consisting of members of Pearl Jam, Alice in Chains, and The Screaming Trees.
+- Peter Murphy is the former lead singer of the pioneering goth band Bauhaus.
+- The Smiths' lead singer Morrissey has made some truly reprehensible statements over the years, but I enjoy his lyrics and vocals in spite of his being a terrible person.
+- Cigarettes After Sex recorded their first EP in a four-story stairway at the University of Texas, El Paso. The quite androgynous sounding lead singer is Greg Gonzales.
+            </description>
+            <itunes:summary>
+Will Johnson - Just To Know What You've Been Dreaming
+Beck - Guess I'm Doing Fine
+Idlewild - Welcome Home
+Jets To Brazil - Sea Anemone
+Mad Season - Wake Up
+Peter Murphy - I'll Fall With Your Knife
+The Smiths - Death of a Disco Dancer
+Pink Floyd - Wish You Were Here
+Cigarettes After Sex - Nothing's Gonna Hurt You Baby
+
+This mix feels mostly like a sequel to Episode 004 "Wallow".
+
+Perhaps I should have titled it "Wallow Side B", in keeping with the mix tape theme.
+
+I guess I like mopey music, or at least I certainly don't shy away from it.
+
+Hmm, let's see,  what can I say about this mix?
+
+Fun Facts!
+
+- Will Johnson is also the lead singer of the bands _South San Gabriel_ and _Centro-matic_.
+- Beck's album _Sea Change_ is one of those rare albums where I can listen to it start to finish and there are no bad tracks I'd rather skip.
+- Despite Idlewild's often country-ish sound... they're Scottish. 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- Jets to Brazil got their name from a travel poster on the wall in a scene from _Breakfast At Tiffany's_.
+- Mad Season is a "supergroup" consisting of members of Pearl Jam, Alice in Chains, and The Screaming Trees.
+- Peter Murphy is the former lead singer of the pioneering goth band Bauhaus.
+- The Smiths' lead singer Morrissey has made some truly reprehensible statements over the years, but I enjoy his lyrics and vocals in spite of his being a terrible person.
+- Cigarettes After Sex recorded their first EP in a four-story stairway at the University of Texas, El Paso. The quite androgynous sounding lead singer is Greg Gonzales.
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#007</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3</guid>
         </item>
 
     </channel>

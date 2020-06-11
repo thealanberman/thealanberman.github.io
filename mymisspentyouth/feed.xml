@@ -21,7 +21,7 @@
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
 
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
+        <pubDate>Thu, 11 Jun 2020 07:35:34 -0700</pubDate>
 
         <!-- COPY THIS FOR NEW ITEMS
         <item>
@@ -412,6 +412,70 @@ Fun Facts!
             <link>https://thealanberman.com/mymisspentyouth/#007</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3</guid>
+        </item>
+
+        <item>
+            <pubDate>Thu, 11 Jun 2020 07:35:34 -0700</pubDate>
+            <title>Episode 008 "No Plan"</title>
+            <description>
+Electric Six - (It Gets) (A Little) Jumpy
+Scissor Sisters - Comfortably Numb
+Zoot Woman - Gem
+Re-Flex - The Politics of Dancing
+Wumpscut - Wreath of Barbs
+The Servant - Cells (Instrumental)
+Black Rebel Motorcycle Club - All You Do Is Talk
+The Psychedelic Furs - There's A World Outside
+Icehouse - Hey Little Girl
+Semisonic - Secret Smile
+Mike Doughty - Tigers Mirrors Mazes Dreams
+
+If there's a theme to this mix, I don't know what it is. 
+
+Just a jumble of songs I like and hope go together.
+
+Fun Facts!
+
+- A critic once described Electric Six's music as "macho flippancy" and "tongue-in-cheek pomposity". Lead singer Dick Valentine estimates "90 percent of our songs, maybe even higher than 90 percent are about absolutely nothing."
+- _Comfortably Numb_ is, of course, originally by Pink Floyd. This version reimagines it as a Beegees song.
+- Robert Levon Been, of Black Rebel Motorcycle Club, is the son of Michael Been from _The Call_.
+- :wumpscut: was the project of German DJ Rudy Ratzinger. Despite being active from 1991 to 2016, it was a studio-only project and never toured.
+- The movie _Pretty in Pink_ is named after the Psychedelic Furs song. Not the other way around. Molly Ringwald was a fan of the Furs.
+- The instrumental version of _Cells_ has been featured in several movies and movie trailers.
+- Dan Wilson and John Munson of Semisonic were also both members of the band Trip Shakespeare. Both bands have a star on the outside of the iconic First Avenue club in Minneapolis.
+- Mike Doughty, former lead singer of Soul Coughing, has a [Patreon](https://www.patreon.com/doughty) where he releases songs weekly (if not more frequently).
+            </description>
+            <itunes:summary>
+Electric Six - (It Gets) (A Little) Jumpy
+Scissor Sisters - Comfortably Numb
+Zoot Woman - Gem
+Re-Flex - The Politics of Dancing
+Wumpscut - Wreath of Barbs
+The Servant - Cells (Instrumental)
+Black Rebel Motorcycle Club - All You Do Is Talk
+The Psychedelic Furs - There's A World Outside
+Icehouse - Hey Little Girl
+Semisonic - Secret Smile
+Mike Doughty - Tigers Mirrors Mazes Dreams
+
+If there's a theme to this mix, I don't know what it is. 
+
+Just a jumble of songs I like and hope go together.
+
+Fun Facts!
+
+- A critic once described Electric Six's music as "macho flippancy" and "tongue-in-cheek pomposity". Lead singer Dick Valentine estimates "90 percent of our songs, maybe even higher than 90 percent are about absolutely nothing."
+- _Comfortably Numb_ is, of course, originally by Pink Floyd. This version reimagines it as a Beegees song.
+- Robert Levon Been, of Black Rebel Motorcycle Club, is the son of Michael Been from _The Call_.
+- :wumpscut: was the project of German DJ Rudy Ratzinger. Despite being active from 1991 to 2016, it was a studio-only project and never toured.
+- The movie _Pretty in Pink_ is named after the Psychedelic Furs song. Not the other way around. Molly Ringwald was a fan of the Furs.
+- The instrumental version of _Cells_ has been featured in several movies and movie trailers.
+- Dan Wilson and John Munson of Semisonic were also both members of the band Trip Shakespeare. Both bands have a star on the outside of the iconic First Avenue club in Minneapolis.
+- Mike Doughty, former lead singer of Soul Coughing, has a [Patreon](https://www.patreon.com/doughty) where he releases songs weekly (if not more frequently).
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#008</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_008.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_008.mp3</guid>
         </item>
 
     </channel>

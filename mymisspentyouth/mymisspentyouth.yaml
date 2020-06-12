@@ -1,6 +1,5 @@
 ---
 posttemplate: |
-  <!-- #################### EPISODE START #################### -->
   <div class="episode">
       <h3><a href="#%%%000%%%">Episode %%%000%%% "%%%TITLE%%%"</a></h3>
       <p>

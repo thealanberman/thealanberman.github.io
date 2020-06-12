@@ -29,5 +29,6 @@ sed -i '' -e "s/%%%TITLE%%%/${TITLE}/g" post.temp
 sed -i '' -e "s^%%%TRACKLIST%%%^${HTMLTRACKLIST}^" post.temp
 sed -i '' -e "s^%%%NOTES%%%^${HTMLNOTES}^" post.temp
 sed -i '' -e "s^%%%NOTES%%%^\&^g" post.temp
-# inject post.temp in index.html
-# rm post.temp
+LINE=$(grep -n INSERT_NEW_HERE index.html | cut -d : -f 1)
+sed -i '' -e "${LINE}r post.temp" index.html
+rm post.temp

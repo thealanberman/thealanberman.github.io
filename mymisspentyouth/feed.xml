@@ -23,24 +23,6 @@
         <!-- UPDATE THIS $(date -R) -->
         <pubDate>Thu, 11 Jun 2020 07:35:34 -0700</pubDate>
 
-        <!-- COPY THIS FOR NEW ITEMS
-        <item>
-            <pubDate>DATE_HERE</pubDate>
-            <title>Episode ZZZ "NAME"</title>
-            <description>
-ITEM1
-ITEM2
-            </description>
-            <itunes:summary>
-ITEM1
-ITEM2
-            </itunes:summary>
-            <link>https://thealanberman.com/mymisspentyouth/#000</link>
-            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3" type="audio/mpeg" length="1" />
-            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_ZZZZZZZZZZ.mp3</guid>
-        </item>
-        -->
-
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>

@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="/xsl/rss.xsl" type="text/xsl"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang='en-US'>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:atom="http://www.w3.org/2005/Atom" xml:lang='en-US'>
     <channel>
         <link>https://thealanberman.com/mymisspentyouth</link>
         <atom:link href="https://thealanberman.com/mymisspentyouth/feed.xml" rel="self" type="application/rss+xml" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Music"/>
         <itunes:owner>
-        <itunes:name>My Misspent Youth Podcast</itunes:name>
+            <itunes:name>My Misspent Youth Podcast</itunes:name>
             <itunes:email>podcast@thealanberman.com</itunes:email>
         </itunes:owner>
         <language>en-us</language>
@@ -19,10 +23,8 @@
         <title>My Misspent Youth</title>
         <description>an eclectic music podcast</description>
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
-
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Thu, 11 Jun 2020 07:35:34 -0700</pubDate>
-
+        <pubDate>Wed, 24 Jun 2020 15:03:02 -0700</pubDate>
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
@@ -70,7 +72,6 @@ Given this is my first episode, expect the format will change in subsequent epis
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_001.mp3</guid>
         </item>
-
         <item>
             <pubDate>Sat, 16 May 2020 15:03:28 -0700</pubDate>
             <title>Episode 002 "Drugs"</title>
@@ -116,7 +117,6 @@ Anyhoo, I enjoy all these tracks regardless of mind altering substances, so hope
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_002.mp3</guid>
         </item>
-
         <item>
             <pubDate>Sat, 16 May 2020 23:02:06 -0700</pubDate>
             <title>Episode 003 "Strange"</title>
@@ -158,7 +158,6 @@ And yes, I know _"Minniapolis"_ is the wrong spelling. That's how it's spelled o
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_003.mp3</guid>
         </item>
-
         <item>
             <pubDate>Tue, 19 May 2020 09:37:31 -0700</pubDate>
             <title>Episode 004 "Wallow"</title>
@@ -204,7 +203,6 @@ The Sisters of Mercy track reminds me I should do a goth/post-punk/darkwave mix.
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_004.mp3</guid>
         </item>
-
         <item>
             <pubDate>Sat, 23 May 2020 22:39:54 -0700</pubDate>
             <title>Episode 005 "Music for Bikes"</title>
@@ -268,7 +266,6 @@ Fun Facts!
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_005.mp3</guid>
         </item>
-
         <item>
             <pubDate>Wed, 27 May 2020 23:00:54 -0700</pubDate>
             <title>Episode 006 "Garage"</title>
@@ -327,7 +324,6 @@ Fun Facts!
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_006.mp3</guid>
         </item>
-
         <item>
             <pubDate>Fri, 05 Jun 2020 23:23:56 -0700</pubDate>
             <title>Episode 007 "Mope"</title>
@@ -395,7 +391,6 @@ Fun Facts!
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_007.mp3</guid>
         </item>
-
         <item>
             <pubDate>Thu, 11 Jun 2020 07:35:34 -0700</pubDate>
             <title>Episode 008 "No Plan"</title>
@@ -459,6 +454,48 @@ Fun Facts!
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_008.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_008.mp3</guid>
         </item>
+        <item>
+            <pubDate>Wed, 24 Jun 2020 15:03:02 -0700</pubDate>
+            <title>Episode 009 "Post Rock"</title>
+            <description>
+Talk Talk - The Rainbow
+Bark Psychosis - Eyes and Smiles
+Godspeed You! Black Emperor - Moya
+Grails - Burden of Hope
+Maserati - Moving With Heavy Hearts
+Explosions in the Sky - Your Hand in Mine
+Tortoise - Along the Banks of Rivers
+Low - Lullaby
 
+Talk Talk started out as a synthpop band in the early 80s. They had some minor radio hits, most notably the 1984 hit [_It's My Life_](https://youtu.be/cFH5JgyZK1I). However, if you look at Talk Talk's studio discography, there's a very clear trajectory towards something quite different. The first 2 albums are just standard pop. Their 3rd album, _The Colour of Spring_ (1986), hints at a new direction. The track [_April 5th_](https://youtu.be/cRx0rqqTetc) in particular shows what's to come.  Their final 2 albums move away from traditional pop song structures and into free-jazz orchestral soundscapes and pioneered what would later become known as "Post Rock".
+
+_The Rainbow_ is the opening track from their fourth album _Spirit of Eden_ (1988). Other than Mark Hollis' vocals, it's unrecognizable as the same band that produced _It's My Life_ only 4 years prior.
+
+The term "Post Rock" was applied retroactively once other bands followed in their footsteps. Bark Psychosis' _Hex_ album helped solidify the term. Post Rock approximately encompasses any music produced using traditional rock instruments, but not following traditional rock structures. The results tend to be long, winding instrumental pieces up to an hour long.
+
+An hour is not a lot of time to fit multiple Post Rock tracks, but this'll have to do.
+            </description>
+            <itunes:summary>
+Talk Talk - The Rainbow
+Bark Psychosis - Eyes and Smiles
+Godspeed You! Black Emperor - Moya
+Grails - Burden of Hope
+Maserati - Moving With Heavy Hearts
+Explosions in the Sky - Your Hand in Mine
+Tortoise - Along the Banks of Rivers
+Low - Lullaby
+
+Talk Talk started out as a synthpop band in the early 80s. They had some minor radio hits, most notably the 1984 hit [_It's My Life_](https://youtu.be/cFH5JgyZK1I). However, if you look at Talk Talk's studio discography, there's a very clear trajectory towards something quite different. The first 2 albums are just standard pop. Their 3rd album, _The Colour of Spring_ (1986), hints at a new direction. The track [_April 5th_](https://youtu.be/cRx0rqqTetc) in particular shows what's to come.  Their final 2 albums move away from traditional pop song structures and into free-jazz orchestral soundscapes and pioneered what would later become known as "Post Rock".
+
+_The Rainbow_ is the opening track from their fourth album _Spirit of Eden_ (1988). Other than Mark Hollis' vocals, it's unrecognizable as the same band that produced _It's My Life_ only 4 years prior.
+
+The term "Post Rock" was applied retroactively once other bands followed in their footsteps. Bark Psychosis' _Hex_ album helped solidify the term. Post Rock approximately encompasses any music produced using traditional rock instruments, but not following traditional rock structures. The results tend to be long, winding instrumental pieces up to an hour long.
+
+An hour is not a lot of time to fit multiple Post Rock tracks, but this'll have to do.
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#009</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_009.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_009.mp3</guid>
+        </item>
     </channel>
 </rss>

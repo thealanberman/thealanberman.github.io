@@ -24,7 +24,7 @@
         <description>an eclectic music podcast</description>
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Wed, 24 Jun 2020 15:03:02 -0700</pubDate>
+        <pubDate>Sat, 04 Jul 2020 23:06:56 -0700</pubDate>
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
@@ -496,6 +496,63 @@ An hour is not a lot of time to fit multiple Post Rock tracks, but this'll have 
             <link>https://thealanberman.com/mymisspentyouth/#009</link>
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_009.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_009.mp3</guid>
+        </item>
+        <item>
+            <pubDate>Sat, 04 Jul 2020 23:06:56 -0700</pubDate>
+            <title>Episode 010 "Chill"</title>
+            <description>
+William Fitzsimmons - So This Is Goodbye (Pink Ganter remix)
+Wideband Network - Earthbound
+MTNS - Fears
+All Hail The Silence - Looking Glass
+Tycho - Awake
+Tame Impala - Feels Like We Only Go Backwards
+Neon Indian - Polish Girl
+Washed Out - It All Feels Right
+The Presets - Girl and the Sea
+God Lives Underwater - From Your Mouth
+
+Don't really have much to say about this mix. Probably at least half of these tracks could qualify for the "Chillwave" genre, if that even counts as a genre.
+
+I saw All Hail The Silence open for Howard Jones in Seattle back in 2019. I was surprised when I discovered the guest vocalist for AHTS was Brian Transeau (a.k.a. "BT") because I had seen BT open for The Crystal Method back in 1998! Thus proving I am old.
+
+Unintentionally, this mix features 3 bands from Australia. Time to dig up some fun facts!
+
+- Both William Fitzsimmons' parents are blind. (William is not blind.)
+- Washed Out is probably best known for the theme song to _Portlandia_.
+- MTNS are from Brisbane, Australia.
+- The Presets are from Sydney, Australia.
+- Tame Impala is from Perth, Australia.
+- Vocalist David Reilly of God Lives Underwater died of complications from a tooth infection. Remember to floss.
+            </description>
+            <itunes:summary>
+William Fitzsimmons - So This Is Goodbye (Pink Ganter remix)
+Wideband Network - Earthbound
+MTNS - Fears
+All Hail The Silence - Looking Glass
+Tycho - Awake
+Tame Impala - Feels Like We Only Go Backwards
+Neon Indian - Polish Girl
+Washed Out - It All Feels Right
+The Presets - Girl and the Sea
+God Lives Underwater - From Your Mouth
+
+Don't really have much to say about this mix. Probably at least half of these tracks could qualify for the "Chillwave" genre, if that even counts as a genre.
+
+I saw All Hail The Silence open for Howard Jones in Seattle back in 2019. I was surprised when I discovered the guest vocalist for AHTS was Brian Transeau (a.k.a. "BT") because I had seen BT open for The Crystal Method back in 1998! Thus proving I am old.
+
+Unintentionally, this mix features 3 bands from Australia. Time to dig up some fun facts!
+
+- Both William Fitzsimmons' parents are blind. (William is not blind.)
+- Washed Out is probably best known for the theme song to _Portlandia_.
+- MTNS are from Brisbane, Australia.
+- The Presets are from Sydney, Australia.
+- Tame Impala is from Perth, Australia.
+- Vocalist David Reilly of God Lives Underwater died of complications from a tooth infection. Remember to floss.
+            </itunes:summary>
+            <link>https://thealanberman.com/mymisspentyouth/#010</link>
+            <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_010.mp3" type="audio/mpeg" length="1" />
+            <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_010.mp3</guid>
         </item>
     </channel>
 </rss>

@@ -3,7 +3,7 @@ posttemplate: |
   <div class="episode">
       <h3><a href="#%%%000%%%">Episode %%%000%%% "%%%TITLE%%%"</a></h3>
       <p>
-          <audio controls>
+          <audio controls class="audio">
               <source
                   src="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_%%%000%%%.mp3"
                   type="audio/mpeg">

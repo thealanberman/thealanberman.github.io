@@ -24,7 +24,7 @@
         <description>an eclectic music podcast</description>
         <lastBuildDate>Sat, 16 May 2020 15:03:28 -0700</lastBuildDate>
         <!-- UPDATE THIS $(date -R) -->
-        <pubDate>Sat, 04 Jul 2020 23:06:56 -0700</pubDate>
+<pubDate>Tue, 17 Nov 2020 23:22:13 -0800</pubDate>
         <item>
             <pubDate>Fri, 15 May 2020 22:43:10 -0700</pubDate>
             <title>Episode 001 "Samples"</title>
@@ -554,5 +554,73 @@ Unintentionally, this mix features 3 bands from Australia. Time to dig up some f
             <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_010.mp3" type="audio/mpeg" length="1" />
             <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_010.mp3</guid>
         </item>
+<item>
+  <pubDate>Tue, 17 Nov 2020 23:22:13 -0800</pubDate>
+  <title>Episode 011 "Echoes"</title>
+  <description>
+Blaqk Audio - Snuff on Digital
+The Knife - Heartbeats
+Wolfsheim - Once in a Lifetime
+De/Vision - Try to Forget
+White Lies - Bigger Than Us
+The Bravery - Time Won't Let Me Go
+The Chameleons UK - Swamp Thing
+She Wants Revenge - These Things
+Ladytron - Destroy Everything You Touch
+Creux Lies - Portals
+Editors - Munich
+
+I think it's safe to say that nearly all of the bands on this playlist were influenced by Joy Division. Definitely a strong post-punk/goth vibe. There's something about the "echo" aesthetic of the music that makes it sound like it was recorded down a long empty hallway.
+
+I don't think there's a single Aussie or Canadian band in this mix. What is the world coming to?
+
+An alternate name for this mix could've been "Duos" considering how many of these bands consist of only 2 members.
+
+Fun facts time!
+
+- Blaqk Audio is a duo consisting of 2 of the members from the punk band AFI.
+- The Knife is a duo consisting of 2 Swedish siblings.
+- Wolfsheim was a duo from Germany. The vocalist, Peter Heppner, has gone on to collaborate with a lot of other German DJs.
+- De/Vision is also duo from Germany, though they started out as a quartet.
+- The Chameleons UK were formed in 1981. They had to tack on "UK" to their name in the US, because there was already a band called The Chameleons in the US.
+- She Wants Revenge was also a duo, though they toured with additional members.
+- Ladytron's name was taken from the song "Ladytron" by Roxy Music.
+- Editors were previously known as Pilot, The Pride and Snowfield.
+  </description>
+  <itunes:summary>
+Blaqk Audio - Snuff on Digital
+The Knife - Heartbeats
+Wolfsheim - Once in a Lifetime
+De/Vision - Try to Forget
+White Lies - Bigger Than Us
+The Bravery - Time Won't Let Me Go
+The Chameleons UK - Swamp Thing
+She Wants Revenge - These Things
+Ladytron - Destroy Everything You Touch
+Creux Lies - Portals
+Editors - Munich
+
+I think it's safe to say that nearly all of the bands on this playlist were influenced by Joy Division. Definitely a strong post-punk/goth vibe. There's something about the "echo" aesthetic of the music that makes it sound like it was recorded down a long empty hallway.
+
+I don't think there's a single Aussie or Canadian band in this mix. What is the world coming to?
+
+An alternate name for this mix could've been "Duos" considering how many of these bands consist of only 2 members.
+
+Fun facts time!
+
+- Blaqk Audio is a duo consisting of 2 of the members from the punk band AFI.
+- The Knife is a duo consisting of 2 Swedish siblings.
+- Wolfsheim was a duo from Germany. The vocalist, Peter Heppner, has gone on to collaborate with a lot of other German DJs.
+- De/Vision is also duo from Germany, though they started out as a quartet.
+- The Chameleons UK were formed in 1981. They had to tack on "UK" to their name in the US, because there was already a band called The Chameleons in the US.
+- She Wants Revenge was also a duo, though they toured with additional members.
+- Ladytron's name was taken from the song "Ladytron" by Roxy Music.
+- Editors were previously known as Pilot, The Pride and Snowfield.
+  </itunes:summary>
+  <link>https://thealanberman.com/mymisspentyouth/#011</link>
+  <enclosure url="https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_011.mp3" type="audio/mpeg" length="1" />
+  <guid>https://mymisspentyouth.s3.us-west-2.amazonaws.com/episodes/my_misspent_youth_011.mp3</guid>
+</item>
+
     </channel>
 </rss>

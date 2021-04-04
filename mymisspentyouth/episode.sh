@@ -14,14 +14,14 @@ yaml_file="mymisspentyouth.yaml"
 [[ "${1}" ]] || err "USAGE: ${0} <episode>"
 [[ -f "${yaml_file}" ]] || err "${yaml_file} is missing!"
 EPISODE=$(( $1 - 1 ))
-TITLE=$(yq r $yaml_file posts[${EPISODE}].name)
-NUMBER=$(yq r $yaml_file posts[${EPISODE}].number)
-TRACKLIST=$(yq r $yaml_file posts[${EPISODE}].tracklist)
-NOTES=$(yq r $yaml_file posts[${EPISODE}].notes)
+TITLE=$(yq e .posts[${EPISODE}].name $yaml_file)
+NUMBER=$(yq e .posts[${EPISODE}].number $yaml_file)
+TRACKLIST=$(yq e .posts[${EPISODE}].tracklist $yaml_file)
+NOTES=$(yq e .posts[${EPISODE}].notes $yaml_file)
 HTMLTRACKLIST=$(mdtohtml <<<"${TRACKLIST}" | tr -d '\n')
 HTMLNOTES=$(mdtohtml <<<"${NOTES}" | tr -d '\n')
-yq r "${yaml_file}" posttemplate > post.temp
-yq r "${yaml_file}" feedtemplate > feed.temp
+yq e .posttemplate "${yaml_file}" > post.temp
+yq e .feedtemplate "${yaml_file}" > feed.temp
 
 ##############
 # index.html 
